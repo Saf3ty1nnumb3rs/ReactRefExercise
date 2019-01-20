@@ -5,8 +5,12 @@ class SearchBar extends Component {
     term: ""
   };
 
-  onFormSubmit(e) {
+  onFormSubmit = (e) => {
     e.preventDefault();
+    this.props.onSubmit(this.state.term);
+    this.setState({
+      term: '',
+    });
   }
 
   render() {
