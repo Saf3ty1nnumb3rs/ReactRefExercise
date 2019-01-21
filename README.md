@@ -1,3 +1,15 @@
+# React Pics with Refs
+This was an exercise to utilize modern principles of React, API calls, refs for DOM interaction (the React way as opposed to the standard JS way), and to incorporate SASS and Semantic UI for rapid and effective styling.
+
+## Technologies & Frameworks
+
+* Javascript ES2015, ES6
+* React 16.6
+* Semantic UI
+* SASS
+* Axios
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
