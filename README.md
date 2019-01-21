@@ -8,6 +8,7 @@ This was an exercise to utilize modern principles of React, API calls, refs for 
 * Semantic UI
 * SASS
 * Axios
+* Unsplash API
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
